@@ -1,0 +1,5 @@
+family,min_depth,max_depth,requires_hip,uses_extension
+big_air,2.5,3.4,0,1
+lip_trick,1.6,3.0,0,0
+coping_grind,1.8,3.2,0,0
+hip_transfer,2.0,3.0,1,0

@@ -1,0 +1,21 @@
+course_id,obstacle_id,feature_name,depth_level,depth_m,radius_class,radius_m,has_hip,has_extension
+Tokyo,T1,Main Deep Bowl,5,3.0,2,2.6,0,0
+Tokyo,T2,Left Pocket Bowl,4,2.6,2,2.6,0,0
+Tokyo,T3,Central Island Platform,3,2.2,1,2.3,0,0
+Tokyo,T4,Island Ledge / Rail Block,2,1.8,1,2.3,0,0
+Tokyo,T5,Hip Connection Zone,3,2.2,2,2.6,1,0
+Tokyo,T6,Volcano / Mound,3,2.2,1,2.3,0,0
+Tokyo,T7,Front Curved Wall / Roller,2,1.8,3,2.9,0,0
+Tokyo,T8,Left Extension Wall,4,2.6,2,2.6,0,1
+Tokyo,T9,Right Extension Wall,4,2.6,2,2.6,0,1
+Tokyo,T10,Front Round Rail Line,1,1.4,1,2.3,0,0
+Paris,P1,Deep End - The Catacombs,5,3.0,2,2.6,0,0
+Paris,P2,Big Air Hip - Hip de Triomphe,4,2.6,2,2.6,1,0
+Paris,P3,Jump Box - The Island,3,2.2,1,2.3,0,0
+Paris,P4,Jump Box Rail,2,1.8,1,2.3,0,0
+Paris,P5,Vert Wall Extension,5,3.0,1,2.3,0,1
+Paris,P6,Round Bowl Pocket,4,2.6,2,2.6,0,0
+Paris,P7,Left Extension Wall,4,2.6,2,2.6,0,1
+Paris,P8,Grind Off Extension,3,2.2,2,2.6,0,1
+Paris,P9,Spine Rail,3,2.2,1,2.3,1,0
+Paris,P10,Roller / Waterfall Line,2,1.8,3,2.9,0,0
